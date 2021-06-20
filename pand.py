@@ -50,6 +50,7 @@ if __name__ == '__main__':
     colname=[]
     colid=[]
     df=pd.DataFrame()
+    
     for folder in folders:
         id=folder['id']
         results = service.files().list(q=f"parents='{id}'",spaces='drive').execute()
@@ -58,8 +59,10 @@ if __name__ == '__main__':
             #print(u'{0} ({1})'.format(item['name'][:-1], item['id']))
             colname.append(item['name'][:-4])
             colid.append(item['id'])
-    df=pd.DataFrame({'id':colid,'name':colname})
+    df=pd.DataFrame({'googleid':colid,'name':colname})
+    
     print(df)
+    df.to_csv('tid.csv',index=False)
     # if not items:
     #     print('No files found.')
     # else:
