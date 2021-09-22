@@ -49,6 +49,9 @@ if __name__ == '__main__':
     #print(items[3])
     colname=[]
     colid=[]
+    songname=['a','b','c','d','e']
+    recommendations=[['000141','000997'],['000141'],['000141'],['000141'],['000141']]
+    tags=[['at'],['bt'],['ct'],['dt'],['et']]
     df=pd.DataFrame()
     
     for folder in folders:
@@ -59,7 +62,7 @@ if __name__ == '__main__':
             #print(u'{0} ({1})'.format(item['name'][:-1], item['id']))
             colname.append(item['name'][:-4])
             colid.append(item['id'])
-    df=pd.DataFrame({'googleid':colid,'name':colname})
+    df=pd.DataFrame({'googleid':colid,'name':colname,'songname':songname,'recommendations':recommendations,'tags':tags})
     
     print(df)
     df.to_csv('tid.csv',index=False)
