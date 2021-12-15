@@ -1,0 +1,57 @@
+,songid,recommendations,tags,title,artist,genre
+0,000002.mp3,"['000704', '004519', '004522', '000148', '000459']","['rnb', 'dance', 'electronic', 'electro', 'Hip-Hop']",Nothing's Ever Ending,Kevin Shields,Experimental
+1,000005.mp3,"['004519', '000707', '000182', '000148', '014568']","['rnb', 'electronic', 'electro', 'ambient', 'female vocalists']",Esto Es Califas,Fósforo,International
+2,000010.mp3,"['004682', '000256', '000005', '000707', '000676']","['metal', 'country', 'ambient', 'electronic', 'experimental']",Cochabamba,Fósforo,International
+3,000140.mp3,"['014572', '000193', '014569', '001649', '000694']","['country', 'folk', 'ambient', 'metal', 'experimental']",Machines and Muscles,CAVE,Rock
+4,000141.mp3,"['000676', '014569', '000005', '000707', '000424']","['experimental', 'ambient', 'electronic', 'beautiful', 'metal']",Heat,Explode Into Colors,International
+5,000148.mp3,"['004522', '000002', '000704', '004519', '000822']","['dance', 'rnb', 'electronic', 'male vocalists', 'female vocalists']",Ohio,Alec K. Redfearn & the Eyesores,Folk
+6,000182.mp3,"['014568', '004519', '000707', '000005', '004520']","['country', 'metal', 'folk', 'dance', 'electronic']",The Ambient Honky,Brian Joseph Davis,Experimental
+7,000190.mp3,"['004520', '001649', '000705', '014568', '000194']","['experimental', 'electronic', 'ambient', 'country', '00s']",Freeway,Kurt Vile,Pop
+8,000193.mp3,"['014572', '004682', '011638', '000140', '000676']","['country', 'ambient', 'folk', 'metal', 'easy listening']",Boute,Au,Pop
+9,000194.mp3,"['001649', '004520', '001482', '014568', '004522']","['country', 'ambient', 'experimental', 'metal', '00s']",Sir,Hecuba,Pop
+10,000197.mp3,"['000615', '003573', '000690', '000574', '000708']","['male vocalists', 'rock', '00s', 'classic rock', 'beautiful']",Queen Of The Wires,Alec K. Redfearn & the Eyesores,Folk
+11,000200.mp3,"['000459', '001482', '000002', '000706', '000666']","['rnb', 'dance', 'electronic', 'Hip-Hop', 'male vocalists']",No Good Deed Goes Unpunished,Kevin Shields,Experimental
+12,000213.mp3,"['000690', '004521', '014570', '001482', '000666']","['country', 'metal', 'male vocalists', '00s', 'ambient']",Apparently,Kevin Shields,Experimental
+13,000255.mp3,"['000574', '001642', '000694', '003573', '004521']","['electronic', 'experimental', 'electronica', 'metal', 'electro']",Jules Lost His Jewels,Ariel Pink's Haunted Graffiti,Rock
+14,000256.mp3,"['000010', '004682', '000695', '000995', '000005']","['rnb', 'dance', 'pop', 'female vocalists', 'electronic']",We Want to be Old,Bird Names,Rock
+15,000368.mp3,"['000256', '004682', '000193', '000010', '000995']","['country', 'folk', 'beautiful', 'ambient', 'metal']",Baby Come Home,Ed Askew,Folk
+16,000424.mp3,"['014570', '000666', '000706', '000002', '004521']","['country', 'folk', 'experimental', 'guitar', 'electronic']","Immaterial, side A",EKG,Experimental
+17,000459.mp3,"['000704', '000707', '004519', '000002', '014572']","['dance', 'electronic', 'pop', 'male vocalists', 'female vocalists']",Sharpen The Knife,Explode Into Colors,International
+18,000574.mp3,"['001642', '000255', '003573', '000690', '000694']","['metal', 'dance', 'electro', 'electronic', 'country']",Piano 2,Ed Askew,Folk
+19,000615.mp3,"['000197', '003573', '000690', '000708', '000213']","['country', 'folk', 'ambient', 'experimental', 'beautiful']",Elephants,Food For Animals,Hip-Hop
+20,000666.mp3,"['000459', '004521', '000002', '000706', '014572']","['country', 'dance', 'electronic', 'folk', 'experimental']",Blackout 2,Contradiction,Experimental
+21,000667.mp3,"['004522', '014571', '000708', '000148', '000822']","['folk', 'country', 'electronic', 'ambient', 'electronica']",Castle Of Stars,Ed Askew,Folk
+22,000676.mp3,"['014569', '000141', '000707', '014572', '011638']","['electronic', 'country', 'experimental', 'electronica', 'ambient']",Planet Say (featuring Faust),Food For Animals,Hip-Hop
+23,000690.mp3,"['003573', '000708', '000213', '004521', '001482']","['dance', 'rnb', 'electronic', 'electro', 'pop']",Cataclysm,Flying Luttenbachers,Rock
+24,000694.mp3,"['004521', '001642', '000666', '014572', '001649']","['electronic', 'dance', 'electronica', 'experimental', 'metal']",Tom & Jerry,Hecuba,Pop
+25,000695.mp3,"['000256', '000010', '000676', '000141', '004682']","['rnb', 'dance', 'electronic', 'male vocalists', 'Hip-Hop']",Caliente Queen,Clockcleaner,Rock
+26,000704.mp3,"['000002', '004519', '000459', '000148', '000822']","['rnb', 'dance', 'electronic', 'male vocalists', 'pop']",02,Infinite Body,Experimental
+27,000705.mp3,"['004522', '000002', '000704', '000148', '001649']","['dance', 'rnb', 'electronic', 'male vocalists', 'pop']",Tio Cocodrilo,Fósforo,International
+28,000706.mp3,"['004519', '000704', '000002', '000459', '014571']","['dance', 'rnb', 'electronic', 'male vocalists', 'pop']",Here With You,Ed Askew,Folk
+29,000707.mp3,"['004519', '000459', '000704', '000005', '000182']","['dance', 'rnb', 'electronic', 'male vocalists', 'pop']",Desconocido,Fósforo,International
+30,000708.mp3,"['000690', '014571', '000667', '004521', '004522']","['rnb', 'dance', 'electronic', 'male vocalists', 'female vocalists']",Mano De Dios,Fósforo,International
+31,000821.mp3,"['000256', '004684', '001644', '000368', '000010']","['electronic', 'rnb', 'dance', 'electro', 'experimental']",Vampires,Blah Blah Blah,Rock
+32,000822.mp3,"['000704', '000002', '000148', '004522', '004519']","['rnb', 'dance', 'electronic', 'electro', 'pop']",Toggle,Black Elk,Rock
+33,000897.mp3,"['014570', '000822', '000424', '000002', '004521']","['country', 'dance', 'folk', 'male vocalists', 'pop']",All I want to Do,Ed Askew,Folk
+34,000995.mp3,"['000707', '014572', '000676', '004682', '000010']","['dance', 'rnb', 'pop', 'metal', 'male vocalists']",The Tension,Fanatic,Hip-Hop
+35,000997.mp3,"['000140', '000424', '001642', '000694', '014570']","['dance', 'rnb', 'electronic', 'pop', 'experimental']",This World,AWOL,Hip-Hop
+36,000998.mp3,"['000694', '000193', '000190', '014572', '000666']","['dance', 'metal', 'folk', 'experimental', 'country']",Food,AWOL,Hip-Hop
+37,001482.mp3,"['000200', '014571', '000706', '014570', '000704']","['dance', 'rnb', 'male vocalists', 'electronic', '00s']",Outskirts,So Cow,Pop
+38,001642.mp3,"['000694', '004521', '000574', '000690', '000666']","['electronic', 'electronica', 'country', 'folk', 'experimental']",Hrz,So Cow,Pop
+39,001644.mp3,"['004684', '010250', '004520', '014568', '000148']","['country', 'metal', 'electronic', 'ambient', 'folk']",Reindeer Dance,Rainbro,Electronic
+40,001649.mp3,"['000704', '000459', '014572', '000002', '000707']","['country', 'dance', 'folk', 'metal', 'electronic']",Inis Meain,So Cow,Pop
+41,003573.mp3,"['000690', '000615', '000708', '000213', '001482']","['dance', 'country', 'folk', 'electronic', 'electronica']",Piggled,Dan Deacon,Electronic
+42,004519.mp3,"['000704', '000002', '000707', '000706', '000005']","['rnb', 'dance', 'electronic', 'electro', 'female vocalists']",Namer,High Places,Electronic
+43,004520.mp3,"['014568', '000182', '001644', '004522', '000190']","['rnb', 'electronic', 'dance', 'electro', 'female vocalists']",Eyes to Form Shadows,Dälek,Hip-Hop
+44,004521.mp3,"['000666', '014570', '000424', '000002', '000694']","['rnb', 'dance', 'electronic', 'electro', 'female vocalists']",Golden,High Places,Electronic
+45,004522.mp3,"['000148', '000002', '000704', '000667', '004519']","['rnb', 'dance', 'electronic', 'electro', 'female vocalists']",Asylum (Permanent Underclass),Dälek,Hip-Hop
+46,004682.mp3,"['000010', '000256', '000676', '000193', '000995']","['country', 'folk', 'electronic', 'electronica', 'experimental']",Oceanus,High Places,Electronic
+47,004684.mp3,"['001644', '014568', '010250', '000148', '004520']","['country', 'folk', 'dance', 'male vocalists', 'electronic']",From Stardust to Sentience,High Places,Electronic
+48,007011.mp3,"['000148', '000822', '001649', '000704', '004519']","['metal', 'electronic', 'ambient', 'electro', 'dance']",in sleepy electricity,junior85,Electronic
+49,010250.mp3,"['000148', '004522', '001644', '004684', '014568']","['country', 'folk', 'electronic', 'experimental', 'metal']",Tree Symphony,JayDee,Instrumental
+50,011638.mp3,"['000182', '004519', '000676', '000707', '014568']","['rnb', 'electronic', 'electro', 'dance', 'female vocalists']",Romantic Neck Tattoo,Embarker,Instrumental
+51,014568.mp3,"['000182', '004520', '004519', '000148', '004522']","['country', '00s', 'metal', 'ambient', 'experimental']",David Niven Death Dance,Ergo Phizmiz,Instrumental
+52,014569.mp3,"['000676', '014572', '000459', '000141', '000707']","['country', 'folk', 'ambient', 'female vocalists', 'easy listening']",Monkey Dance,Ergo Phizmiz,Instrumental
+53,014570.mp3,"['000424', '004521', '000704', '000666', '000706']","['experimental', 'ambient', 'instrumental', 'country', 'electronic']",Through the Doors of the Circus,Ergo Phizmiz,Instrumental
+54,014571.mp3,"['000706', '000667', '000148', '000822', '004522']","['experimental', 'country', 'metal', 'ambient', 'electronic']",Gretchen's Tango,Ergo Phizmiz,Instrumental
+55,014572.mp3,"['000459', '001649', '000707', '014569', '000140']","['experimental', 'electronic', 'electronica', 'metal', 'country']",So Wunsch Ich Dir,Ergo Phizmiz,Instrumental

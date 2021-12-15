@@ -41,7 +41,7 @@ def fun():
 
 if __name__ == '__main__':
     service=fun()
-    folder_id='1586raJeuanYEQv54hNQDwy9uzS1bzfrC'
+    folder_id='1qdAxa41n9WUhoXaiStKk0M4jJLUInluk'
     folder_only='application/vnd.google-apps.folder'
     query=f"mimeType = '{folder_only}' and parents='{folder_id}' "
     results = service.files().list(q=query,spaces='drive').execute()
@@ -49,23 +49,29 @@ if __name__ == '__main__':
     #print(items[3])
     colname=[]
     colid=[]
-    songname=['a','b','c','d','e']
-    recommendations=[['000141','000997'],['000141'],['000141'],['000141'],['000141']]
-    tags=[['at'],['bt'],['ct'],['dt'],['et']]
+    # songname=['a','b','c','d','e']
+    # recommendations=[['000141','000997'],['000141'],['000141'],['000141'],['000141']]
+    # tags=[['at'],['bt'],['ct'],['dt'],['et']]
     df=pd.DataFrame()
     
     for folder in folders:
         id=folder['id']
         results = service.files().list(q=f"parents='{id}'",spaces='drive').execute()
         items = results.get('files', [])
+        dictnary={}
         for item in items:
             #print(u'{0} ({1})'.format(item['name'][:-1], item['id']))
-            colname.append(item['name'][:-4])
-            colid.append(item['id'])
-    df=pd.DataFrame({'googleid':colid,'name':colname,'songname':songname,'recommendations':recommendations,'tags':tags})
+            dictnary[item['name'][:-4]]=item['id']
     
+    keys=sorted(dictnary.keys())
+    for key in keys:
+        colname.append(key)
+        colid.append(dictnary[key])
+    df=pd.DataFrame({'googleid':colid,'name':colname})
+    #print(sorted(colname))
+    #print("Hello",type(df['songname'][0]))
     print(df)
-    df.to_csv('tid.csv',index=False)
+    df.to_csv('newtid.csv',index=False)
     # if not items:
     #     print('No files found.')
     # else:

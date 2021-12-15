@@ -1,0 +1,57 @@
+,songid,recommendations,tags,title,artist,genre
+0,000002.mp3,"['014569', '014572', '000182', '000459', '004521']","['rnb', 'dance', 'electronic', 'electro', 'Hip-Hop']",The Death of Patience,Kevin Shields,Experimental
+1,000005.mp3,"['000676', '004519', '014570', '004522', '000704']","['rnb', 'electronic', 'electro', 'ambient', 'female vocalists']",Macondo,Fósforo,International
+2,000010.mp3,"['000256', '000695', '004682', '000897', '000704']","['metal', 'country', 'ambient', 'electronic', 'experimental']",Macondo,Fósforo,International
+3,000140.mp3,"['000194', '000193', '000822', '004522', '014571']","['country', 'folk', 'ambient', 'metal', 'experimental']",Butthash,CAVE,Rock
+4,000141.mp3,"['000193', '014571', '000706', '014570', '004520']","['experimental', 'ambient', 'electronic', 'beautiful', 'metal']",summer 2008 demos,Explode Into Colors,International
+5,000148.mp3,"['000667', '000002', '014569', '014572', '000193']","['dance', 'rnb', 'electronic', 'male vocalists', 'female vocalists']",Every Man For Himself,Alec K. Redfearn & the Eyesores,Folk
+6,000182.mp3,"['000459', '014572', '004519', '000995', '000002']","['country', 'metal', 'folk', 'dance', 'electronic']",The Definitive Host,Brian Joseph Davis,Experimental
+7,000190.mp3,"['014568', '004684', '000704', '014570', '010250']","['experimental', 'electronic', 'ambient', 'country', '00s']",Constant Hitmaker,Kurt Vile,Pop
+8,000193.mp3,"['000690', '014572', '000822', '014571', '000708']","['country', 'ambient', 'folk', 'metal', 'easy listening']",Au,Au,Pop
+9,000194.mp3,"['000140', '014570', '000706', '014571', '004522']","['country', 'ambient', 'experimental', 'metal', '00s']","Sir 12"" EP",Hecuba,Pop
+10,000197.mp3,"['000255', '000010', '001644', '000256', '000695']","['male vocalists', 'rock', '00s', 'classic rock', 'beautiful']",The Blind Spot,Alec K. Redfearn & the Eyesores,Folk
+11,000200.mp3,"['000424', '000707', '000676', '004522', '000995']","['rnb', 'dance', 'electronic', 'Hip-Hop', 'male vocalists']",The Death of Patience,Kevin Shields,Experimental
+12,000213.mp3,"['004682', '000695', '000010', '000666', '007011']","['country', 'metal', 'male vocalists', '00s', 'ambient']",The Death of Patience,Kevin Shields,Experimental
+13,000255.mp3,"['000256', '001644', '000010', '004682', '000200']","['electronic', 'experimental', 'electronica', 'metal', 'electro']",Worn Copy,Ariel Pink's Haunted Graffiti,Rock
+14,000256.mp3,"['000010', '000704', '014570', '004684', '004682']","['rnb', 'dance', 'pop', 'female vocalists', 'electronic']",On Opaque Things,Bird Names,Rock
+15,000368.mp3,"['000822', '003573', '000194', '000193', '000140']","['country', 'folk', 'beautiful', 'ambient', 'metal']",Blue Piano,Ed Askew,Folk
+16,000424.mp3,"['004522', '000676', '004519', '000995', '004521']","['country', 'folk', 'experimental', 'guitar', 'electronic']",Immaterial,EKG,Experimental
+17,000459.mp3,"['000182', '000995', '014572', '004521', '000002']","['dance', 'electronic', 'pop', 'male vocalists', 'female vocalists']",summer 2008 demos,Explode Into Colors,International
+18,000574.mp3,"['001642', '000694', '014569', '000002', '000459']","['metal', 'dance', 'electro', 'electronic', 'country']",Blue Piano,Ed Askew,Folk
+19,000615.mp3,"['001482', '000213', '000695', '000197', '004682']","['country', 'folk', 'ambient', 'experimental', 'beautiful']",Cock Rock Disco 2006 Free Compilation,Food For Animals,Hip-Hop
+20,000666.mp3,"['000998', '004521', '000676', '000459', '000424']","['country', 'dance', 'electronic', 'folk', 'experimental']",Contradiction,Contradiction,Experimental
+21,000667.mp3,"['004520', '014572', '000148', '000002', '014569']","['folk', 'country', 'electronic', 'ambient', 'electronica']",Blue Piano,Ed Askew,Folk
+22,000676.mp3,"['004519', '000005', '000707', '004522', '004521']","['electronic', 'country', 'experimental', 'electronica', 'ambient']",mp3 single with Faust,Food For Animals,Hip-Hop
+23,000690.mp3,"['000193', '014569', '000822', '000708', '014572']","['dance', 'rnb', 'electronic', 'electro', 'pop']",Cataclysm,Flying Luttenbachers,Rock
+24,000694.mp3,"['000459', '000574', '001649', '001642', '000002']","['electronic', 'dance', 'electronica', 'experimental', 'metal']","Sir 12"" EP",Hecuba,Pop
+25,000695.mp3,"['000010', '004682', '000666', '000213', '000998']","['rnb', 'dance', 'electronic', 'male vocalists', 'Hip-Hop']",Babylon Rules,Clockcleaner,Rock
+26,000704.mp3,"['004684', '014570', '004519', '014568', '000676']","['rnb', 'dance', 'electronic', 'male vocalists', 'pop']",White Hymn,Infinite Body,Experimental
+27,000705.mp3,"['007011', '000707', '004519', '000676', '000704']","['dance', 'rnb', 'electronic', 'male vocalists', 'pop']",Macondo,Fósforo,International
+28,000706.mp3,"['004519', '000995', '014571', '014570', '000704']","['dance', 'rnb', 'electronic', 'male vocalists', 'pop']",Blue Piano,Ed Askew,Folk
+29,000707.mp3,"['004519', '014568', '000676', '000995', '014570']","['dance', 'rnb', 'electronic', 'male vocalists', 'pop']",Macondo,Fósforo,International
+30,000708.mp3,"['000193', '014571', '014568', '000690', '000190']","['rnb', 'dance', 'electronic', 'male vocalists', 'female vocalists']",Macondo,Fósforo,International
+31,000821.mp3,"['000574', '011638', '001642', '000667', '003573']","['electronic', 'rnb', 'dance', 'electro', 'experimental']",30th Anniversary Blah Blah Blah,Blah Blah Blah,Rock
+32,000822.mp3,"['000193', '000690', '000708', '000141', '014571']","['rnb', 'dance', 'electronic', 'electro', 'pop']",Black Elk,Black Elk,Rock
+33,000897.mp3,"['000010', '000676', '000194', '000005', '004522']","['country', 'dance', 'folk', 'male vocalists', 'pop']",Blue Piano,Ed Askew,Folk
+34,000995.mp3,"['004519', '000706', '000182', '000707', '000459']","['dance', 'rnb', 'pop', 'metal', 'male vocalists']",Change Thoughts (radio edit),Fanatic,Hip-Hop
+35,000997.mp3,"['000200', '000424', '000666', '000676', '000707']","['dance', 'rnb', 'electronic', 'pop', 'experimental']",AWOL - A Way Of Life,AWOL,Hip-Hop
+36,000998.mp3,"['007011', '000459', '000666', '000705', '000182']","['dance', 'metal', 'folk', 'experimental', 'country']",AWOL - A Way Of Life,AWOL,Hip-Hop
+37,001482.mp3,"['000615', '000695', '000213', '000197', '000010']","['dance', 'rnb', 'male vocalists', 'electronic', '00s']",Wackity Schmackity Doo,So Cow,Pop
+38,001642.mp3,"['014569', '000002', '000459', '014572', '000182']","['electronic', 'electronica', 'country', 'folk', 'experimental']",Wackity Schmackity Doo,So Cow,Pop
+39,001644.mp3,"['000256', '000255', '000010', '000704', '014570']","['country', 'metal', 'electronic', 'ambient', 'folk']",Vectors,Rainbro,Electronic
+40,001649.mp3,"['014572', '000995', '004519', '007011', '000706']","['country', 'dance', 'folk', 'metal', 'electronic']",Wackity Schmackity Doo,So Cow,Pop
+41,003573.mp3,"['000822', '000690', '000708', '000193', '000148']","['dance', 'country', 'folk', 'electronic', 'electronica']",Live at WFMU on OCDJ's Show on 7/23/2003,Dan Deacon,Electronic
+42,004519.mp3,"['000676', '000005', '014570', '000707', '000995']","['rnb', 'dance', 'electronic', 'electro', 'female vocalists']",Live at WFMU on Marty McSorely's Show on 10/28/2008,High Places,Electronic
+43,004520.mp3,"['014572', '000667', '000190', '010250', '000182']","['rnb', 'electronic', 'dance', 'electro', 'female vocalists']",Live at WFMU on Mike's Show on 9/25/2004,Dälek,Hip-Hop
+44,004521.mp3,"['004522', '004519', '000676', '000459', '000995']","['rnb', 'dance', 'electronic', 'electro', 'female vocalists']",Live at WFMU on Marty McSorely's Show on 10/28/2008,High Places,Electronic
+45,004522.mp3,"['000676', '004521', '004519', '000005', '000707']","['rnb', 'dance', 'electronic', 'electro', 'female vocalists']",Live at WFMU on Mike's Show on 9/25/2004,Dälek,Hip-Hop
+46,004682.mp3,"['007011', '000998', '000213', '000010', '000695']","['country', 'folk', 'electronic', 'electronica', 'experimental']",Live at WFMU on Marty McSorely's Show on 10/28/2008,High Places,Electronic
+47,004684.mp3,"['000704', '000190', '014568', '014570', '000706']","['country', 'folk', 'dance', 'male vocalists', 'electronic']",Live at WFMU on Marty McSorely's Show on 10/28/2008,High Places,Electronic
+48,007011.mp3,"['004519', '000705', '000676', '014568', '000704']","['metal', 'electronic', 'ambient', 'electro', 'dance']",sleepy,junior85,Electronic
+49,010250.mp3,"['000190', '014568', '014571', '007011', '000182']","['country', 'folk', 'electronic', 'experimental', 'metal']",Free Matter for the Blind Volume 6: Mysterious Worldz (Light Side),JayDee,Instrumental
+50,011638.mp3,"['003573', '000148', '000690', '000822', '014569']","['rnb', 'electronic', 'electro', 'dance', 'female vocalists']",Dis-adelphia,Embarker,Instrumental
+51,014568.mp3,"['000190', '000707', '004519', '014570', '004684']","['country', '00s', 'metal', 'ambient', 'experimental']","Music from ""The House of Dr Faustus""",Ergo Phizmiz,Instrumental
+52,014569.mp3,"['000002', '014572', '001642', '000459', '000182']","['country', 'folk', 'ambient', 'female vocalists', 'easy listening']","Music from ""The House of Dr Faustus""",Ergo Phizmiz,Instrumental
+53,014570.mp3,"['000704', '004519', '014571', '014568', '000005']","['experimental', 'ambient', 'instrumental', 'country', 'electronic']","Music from ""The House of Dr Faustus""",Ergo Phizmiz,Instrumental
+54,014571.mp3,"['014570', '004519', '000706', '014568', '000005']","['experimental', 'country', 'metal', 'ambient', 'electronic']","Music from ""The House of Dr Faustus""",Ergo Phizmiz,Instrumental
+55,014572.mp3,"['000002', '000182', '001649', '000459', '014569']","['experimental', 'electronic', 'electronica', 'metal', 'country']","Music from ""The House of Dr Faustus""",Ergo Phizmiz,Instrumental
